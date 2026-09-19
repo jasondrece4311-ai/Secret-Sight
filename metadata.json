@@ -1,0 +1,6 @@
+{
+  "name": "Secret in Sight",
+  "description": "Can you see what others miss? A polished hidden-object camouflage game with 20 richly detailed scenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

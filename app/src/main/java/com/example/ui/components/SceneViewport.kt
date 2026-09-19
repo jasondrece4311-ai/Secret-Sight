@@ -35,7 +35,7 @@ import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.input.pointer.positionChange
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalDensity
-import androidx.compose.ui.testTag
+import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.unit.dp
 import com.example.R
 import com.example.engine.CoordinateTransformer
